@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Portrait.xsl"?>
+
+
+<archive>
+    
+    <item>
+        <nature>Portrait</nature>
+        <author>John Wick</author>
+        <location>British Museum London</location>
+        <history>Created back in 1998</history>
+        <description>A white painting</description>
+        <itemMetadata>1992.21.11</itemMetadata>
+        <price>11</price>
+        <image>Image</image>
+    </item>
+    
+        <item>
+        <nature>Portrait</nature>
+        <author>Ivan Johnson</author>
+        <location>British Museum London</location>
+        <history>Created in 1999</history>
+        <description>A painting of a black cat</description>
+        <itemMetadata>1992.11.12</itemMetadata>
+        <price>5</price>
+            <image>Image</image>
+    </item>
+    
+    
+    
+    
+</archive>
